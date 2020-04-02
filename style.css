@@ -1,0 +1,31 @@
+.cat_icon{
+	position:relative;
+	text-align: center;
+}
+
+.cat_icon p{
+	position: absolute;
+    top: 40%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size:40px;
+}
+
+/*.slide-img{
+	max-height:600px;
+}*/
+
+h2{
+	font-size:70px;
+}
+
+
+.cat_description{
+	font-size:18px;
+}
+
+
+.read_btn{
+	text-align: center;
+}
