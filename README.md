@@ -1,4 +1,4 @@
 # about_cat
-ポートフォリオサイトです。
-URL↓
+ポートフォリオサイトです。  
+URL↓  
 https://motomu01.github.io/about_cat/
